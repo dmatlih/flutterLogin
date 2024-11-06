@@ -1,0 +1,13 @@
+{"flutter":{"platforms":{
+    "android":{
+        "default":{
+            "projectId":"nemsuapp-cb713",
+            "appId":"1:708837723917:android:f17b7596f49bb15e702a44",
+            "fileOutput":"android/app/google-services.json"}},
+            "dart":{"lib/firebase_options.dart":{
+                "projectId":"nemsuapp-cb713","configurations":{
+                    "android":"1:708837723917:android:f17b7596f49bb15e702a44",
+                    "ios":"1:708837723917:ios:bdc1cb357a0d32d7702a44",
+                    "macos":"1:708837723917:ios:bdc1cb357a0d32d7702a44",
+                    "web":"1:708837723917:web:7b6257e16742e84a702a44",
+                    "windows":"1:708837723917:web:772b932ecd1c7ab3702a44"}}}}}}
